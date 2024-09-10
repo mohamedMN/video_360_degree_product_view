@@ -1,0 +1,1 @@
+pip install opencv-python numpy scipy matplotlib pandas tqdm pycolmap shapely
