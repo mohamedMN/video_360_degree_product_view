@@ -24,4 +24,4 @@ def extract_frames(video_path, output_folder, fps=1):
     cap.release()
 
 # Usage
-extract_frames('path/to/your/video.mp4', 'frames', fps=1)
+extract_frames('./video/360-Degree.mp4', 'frames', fps=1)
